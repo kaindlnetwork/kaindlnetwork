@@ -1,0 +1,22 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Kaindl;Fabian;;;
+FN:Fabian Kaindl
+ORG:Kaindl Network UG (haftungsbeschränkt)
+ADR;TYPE=WORK:Hauptstraße 114, 40789 Monheim am Rhein, Germany
+TITLE:Chief Chaos Officer
+TEL;TYPE=CELL:+491579-2521583
+TEL;TYPE=WORK:+492173-9936544
+TEL;TYPE=HOME:
+TEL;TYPE=MSG:+491579-2521583
+EMAIL;TYPE=WORK:fabian@kaindlnetwork.de
+URL;TYPE=Digital Business Card:https://kaindlnetwork.de/fabiankaindl
+URL:https://kaindlnetwork.de
+URL;TYPE=Website:https://kaindlnetwork.de
+URL;TYPE=WhatsApp:+49 1579-2521583
+URL;TYPE=Signal:https://signal.me/#p/+49 1579-2521583
+URL;TYPE=GitHub:https://github.com/kaindlnetwork
+KEY;TYPE=PGP;ENCODING=b:
+NOTE:Die Kaindl Network UG (haftungsbeschränkt) ist ein IT-Dienstleister mit ❤ und Blut für Individuelle Kundenlösungen entwickelt und betreibt.
+UID:EnBizCard-100042216
+END:VCARD
